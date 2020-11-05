@@ -41,9 +41,9 @@ function setup() {
 
 
 function draw() {
-	  background("lightgray");
+	//  background("lightgray");
 	  background(230); 
-	  image(boy ,200,340,200,300); }
+	  image(boy ,200,340,200,300); 
 
 	ground.display();
 	treeObject.display();
